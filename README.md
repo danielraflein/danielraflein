@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danielraflein
-- 👀 I’m interested in business and tech related shenanigans
+- 👀 I’m interested in business and tech
 - 🌱 I’m currently learning Computer Science @ The University of Western Australia
 
 <!---
